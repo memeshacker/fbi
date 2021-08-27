@@ -519,7 +519,7 @@ def menu_reaction_ask():
 			pass
 
 		print '\n' + '[*] Generate Access token facebook [*]'.center(44) + '\n'
-		print '[Warn] please turn off your VPN before using this feature !!!'
+		print '[Warn] please turn on your USA VPN before using this feature !!!'
 		id()
 	elif cek in ['0','00']:
 		print '[!] back to bot menu'
