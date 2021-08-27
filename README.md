@@ -28,6 +28,9 @@ $ cd fbi
 $ pip2 install -r requirements.txt
 ```
 # [ Running ]
+
+* set USA vpn then run command
+
 ```
 $ python2 fbi.py
 ```
